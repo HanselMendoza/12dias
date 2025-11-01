@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hmendoza\\Desktop\\hmendoza\\escritorio\\Personal\\poc2025\\rutaApiv1\\rutaApiv1.csproj",
+      "projectUniqueName": "C:\\Users\\hmendoza\\Desktop\\hmendoza\\escritorio\\Personal\\poc2025\\12dias\\rutaApiv1.csproj",
       "projectName": "rutaApiv1",
-      "projectPath": "C:\\Users\\hmendoza\\Desktop\\hmendoza\\escritorio\\Personal\\poc2025\\rutaApiv1\\rutaApiv1.csproj",
+      "projectPath": "C:\\Users\\hmendoza\\Desktop\\hmendoza\\escritorio\\Personal\\poc2025\\12dias\\rutaApiv1.csproj",
       "packagesPath": "C:\\Users\\hmendoza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hmendoza\\Desktop\\hmendoza\\escritorio\\Personal\\poc2025\\rutaApiv1\\obj\\",
+      "outputPath": "C:\\Users\\hmendoza\\Desktop\\hmendoza\\escritorio\\Personal\\poc2025\\12dias\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
