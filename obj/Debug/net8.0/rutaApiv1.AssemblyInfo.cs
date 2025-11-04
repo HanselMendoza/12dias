@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rutaApiv1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a89db53081a03ed94ea11727745884ca193c777")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2caca75763e60c959d0fd10810525087aa7e1827")]
 [assembly: System.Reflection.AssemblyProductAttribute("rutaApiv1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rutaApiv1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
